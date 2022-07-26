@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/i-am-ashwin/frontendmentor-product-preview-card](https://github.com/i-am-ashwin/frontendmentor-product-preview-card)
+- Live Site URL: [https://i-am-ashwin.github.io/frontendmentor-product-preview-card/](https://i-am-ashwin.github.io/frontendmentor-product-preview-card/)
 
 
 ### Built with
